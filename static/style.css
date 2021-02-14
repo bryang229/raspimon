@@ -1,0 +1,24 @@
+.header{
+    font-family: cursive;
+    text-align: center;
+    color: red;
+}
+body{
+    background-color: #FFFFBF;
+}
+#lQ{
+    width: 10%;
+    height: 10%;
+    margin-left: 45%;
+}
+p{
+    font-family: cursive;
+    text-align: center;
+}
+.button{
+    margin-left:47.5%;
+    width: 70px;
+}
+#form{
+    margin-left:45%;
+}
